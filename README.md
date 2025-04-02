@@ -1,7 +1,9 @@
-# paulina-sepulveda-2024.github.io
+# Creación de una página web sencilla
+
 Pagina web:
 [paulina-sepulveda-2024.github.io](https://paulina-sepulveda-2024.github.io/)
 
+Usé el template que viene detallado en el `archivo _config.yml`
 
 ## Descripcion
 Recordar descripción de ustedes, puede ser una foto, etc.
